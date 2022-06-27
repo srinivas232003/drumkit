@@ -88,3 +88,8 @@ background-image: url("images/tom1.png");
   color:rgb(227, 165, 228);
   text-shadow: 6px 0 #DA0463;
 }
+.title{
+  font-size:2rem;
+  text-shadow: 3px 0 #DA0463;
+  color:azure;
+}
